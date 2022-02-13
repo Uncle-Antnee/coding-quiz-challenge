@@ -13,7 +13,7 @@ https://uncle-antnee.github.io/coding-quiz-challenge/
 
 ## Screenshot
 
-<img src=./assets/Images/quizSS.png />
+<img src=./assets/images/quizSS.png />
 
 ## Website made using
 HTML, CSS, JAVASCRIPT
