@@ -4,7 +4,7 @@ Week 4 challenge
 
 ## Description
 
-Creating a timed quiz on JavaScript fundamentals that stores high scores.
+Creating a timed quiz using JavaScript learned in module 4. The quiz is based on JavaScript fundamentals, the quiz uses time/correct answers to give a high score after completing the quiz.
 
 ## links
 
